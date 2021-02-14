@@ -1,2 +1,2 @@
-# Curso_JavaScript
-Aprendendo JavaScript
+#  Exercicios
+treinando JavaScript
